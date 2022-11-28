@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5129a4e6-e3f0-4149-a1ac-807df3da20c2" name="Changes" comment="Given code and structure" />
+    <list default="true" id="5129a4e6-e3f0-4149-a1ac-807df3da20c2" name="Changes" comment="More given code and structure">
+      <change afterPath="$PROJECT_DIR$/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservedWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Parser.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,12 +36,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/murphnomer/IdeaProjects/AD325-P3-MMurphy/src/TreePackage"
+    "last_opened_file_path": "/Users/murphnomer/IdeaProjects/AD325-P3-MMurphy/src/StackPackage",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/StackPackage" />
+      <recent name="$PROJECT_DIR$/src/TreePackage" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="TreePackage" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669596712829</updated>
-      <workItem from="1669596714002" duration="1184000" />
+      <workItem from="1669596714002" duration="7382000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1669596901589</created>
@@ -60,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669597993866</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="More given code and structure">
+      <created>1669598492556</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669598492556</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,8 +102,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Given code and structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Given code and structure" />
+    <MESSAGE value="More given code and structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="More given code and structure" />
   </component>
 </project>
