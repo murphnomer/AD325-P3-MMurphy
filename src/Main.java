@@ -1,3 +1,6 @@
+import TreePackage.BinarySearchTree;
+import TreePackage.BinaryTree;
+
 public class Main {
     public static void main(String[] args) {
         // Create a parser object
@@ -13,5 +16,6 @@ public class Main {
 
         System.out.println("User defined identifiers found:\n");
         p.printIdentifiers();
+
     }
 }

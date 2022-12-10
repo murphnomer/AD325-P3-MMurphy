@@ -105,12 +105,14 @@ public class BinaryTree<T> implements BinaryTreeInterface<T>
         return numberOfNodes;
     } // end getNumberOfNodes
 
-    protected void setRootNode(BinaryNode<T> rootNode)
+    // scope changed to public to support balancing functions in Parser class
+    public void setRootNode(BinaryNode<T> rootNode)
     {
         root = rootNode;
     } // end setRootNode
 
-    protected BinaryNode<T> getRootNode()
+    // scope changed to public to support balancing functions in Parser class
+    public BinaryNode<T> getRootNode()
     {
         return root;
     } // end getRootNode
